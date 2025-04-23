@@ -1,3 +1,9 @@
+# Author: Kazi Nusrat Sinthia (GitHub: Sinthia-11628)
+# Created on: 23 April 2025
+# Description: is a modern, interactive Hangman game built with Python and Tkinter. It fetches random words online from a live dictionary API
+#and teaches players their meanings, synonyms, antonyms, and usage—making learning fun while trying to save a poor stickman from his doom!
+
+
 import tkinter as tk
 import random
 import requests
