@@ -1,4 +1,4 @@
-# 🎮 Funny Hangman: Save the Stickman!
+# 🎮 Letter Quest:Hangman Adventure!
 
 A fun and interactive GUI-based Hangman game built using Python and Tkinter, designed with a modern glassmorphism-inspired interface. Players guess a randomly chosen English word, 
 and if they fail — they’ll not only see the word but also learn its **meaning**, **example**, **synonyms**, and **antonyms**. Educational *and* fun!
